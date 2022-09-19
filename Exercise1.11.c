@@ -1,0 +1,10 @@
+/*
+
+In simple terms the program wont function properly 
+if this sort of input is given 
+
+G i v e 
+
+i.e input with space inbetween
+
+*/
